@@ -30,25 +30,27 @@
 - Markdown 可以正常编辑
 - 我已经迈出第一步
 
-- Windsurf (左侧：文件区,放你的文件（文章 / 程序）
+---
 
-- Windsurf（左侧）：当前 Workspace 中的 Folder / File 结构（项目内容）
-- [A] Window→Workspace→Folder→File
-- * Window：你在桌面上看到的“一个程序窗口”
-- * Workspace：这个窗口里你正在处理的“项目集合”
-- * Folder：项目在硬盘上的“真实目录（实体）”
-- * File：目录里的“具体内容”（文章/代码）
+Windsurf視窗左侧：文件区,放你的文件（文章 / 程序）
 
-- [B] 结构关系（从大到小）
-- Window
--  └─ Workspace
--      └─ Folder（1个或多个）
--          └─ File（很多）
+Windsurf視窗左侧：当前 Workspace 中的 Folder / File 结构（项目内容）
+ 第1: Window→Workspace→Folder→File
+ (1) Window：你在桌面上看到的“一个程序窗口”
+ (2) Workspace：这个窗口里你正在处理的“项目集合”
+ (3) Folder：项目在硬盘上的“真实目录（实体）”
+ (4) File：目录里的“具体内容”（文章/代码）
 
-- [C] 小白判断规则（你卡住时用这个）
-- * 你想“换一个项目” → 操作 Workspace/Folder（Open Folder / Open Recent）
-- * 你想“同时做两个项目” → 开 Window（New Window）
-- * 你想“整理结构/放图片/建 posts” → 操作 Folder（目录结构）
-- * 你想“写文章内容” → 操作 File（新建/编辑/保存 .md）
+ 第2: 结构关系（从大到小）
+ Window
+  └─ Workspace
+      └─ Folder（1个或多个）
+          └─ File（很多）
+
+ 第3: 小白判断规则（你卡住时用这个）
+ (1) 你想“换一个项目” → 操作 Workspace/Folder（Open Folder / Open Recent）
+ (2) 你想“同时做两个项目” → 开 Window（New Window）
+ (3) 你想“整理结构/放图片/建 posts” → 操作 Folder（目录结构）
+ (4) 你想“写文章内容” → 操作 File（新建/编辑/保存 .md）
 
 
