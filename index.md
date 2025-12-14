@@ -5,9 +5,9 @@
 ## 📚 文章目录
 
 - [第一篇：Champion 的第一篇博客](index.md)
-- [第二篇：Champion 的第二篇博客：开始进入节奏](posts/post-001.md)
-- [第三篇：Champion 的第三篇博客：开始养成习惯](posts/post-002.md)
-- [第四篇：Champion 的第四篇博客：我已经会自己更新 (github) 博客了](posts/post-003.md)
+- [第二篇：Champion 的第二篇博客：开始进入节奏](posts/2025-12-14-001-i-can-update-my-blog-now.md)
+- [第三篇：Champion 的第三篇博客：开始养成习惯](posts/2025-12-14-002-i-can-update-my-blog-now.md)
+- [第四篇：Champion 的第四篇博客：我已经会自己更新 (github) 博客了](posts/2025-12-14-003-i-can-update-my-blog-now.md)
 
 
 欢迎来到我的博客 👋
